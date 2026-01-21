@@ -20,7 +20,7 @@ As a Data Analyst, I analyzed **1,000+ real-time job postings** to identify sala
 1.  **Data Cleaning (Power Query):** Parsed "Skills" columns from raw text into countable categories.
 2.  **Data Modeling:** Established a Star Schema connecting Job Facts to Location and Company Dimensions.
 3.  **Visualization (Power BI):** Created interactive maps and dynamic slicers.
-4.  **Advanced DAX Implementation
+4.  Advanced DAX Implementation
 
 ### 📂 Files in this Repo
 * `https://drive.google.com/file/d/1a7fcqWJBfc5tb817lyQqYrLXnX5zzswg/view?usp=drive_link`: The raw dataset used for analysis.
