@@ -12,7 +12,7 @@ The full Power BI report is hosted on Google Drive because the `.pbix` file is t
 
 ## Project Overview
 
-This project analyzes 1,000+ job postings to identify salary trends, location hotspots, and technical skill demand in data-related roles across the US and India.
+This project analyzes  job postings to identify salary trends, location hotspots, and technical skill demand in data-related roles across the US and India.
 
 The project was built using Power BI, Power Query, and DAX. The goal is to convert raw job-posting data into an interactive dashboard for job-market and career-related insights.
 
